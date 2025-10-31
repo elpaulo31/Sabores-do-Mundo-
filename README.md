@@ -15,3 +15,7 @@ Lucas de Araujo dos Prazeres;
 Nayane Maria Lopes dos Santos;
 
 Paulo Thiago Santos da Silva.
+
+
+
+Primeira atualização 31/10
