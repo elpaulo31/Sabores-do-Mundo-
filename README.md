@@ -87,7 +87,6 @@ Métricas de estoque
 Dashboard gerencial
 
 
-
 📱 Protótipo da Interface
 Telas Principais
 Login - Acesso com diferentes perfis
