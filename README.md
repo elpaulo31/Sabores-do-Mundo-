@@ -69,7 +69,7 @@ Escalas de trabalho
 Avaliações de desempenho
 
 🍳 Módulo de Produção
-Responsável: Lucas de Araújo
+Responsável: Lucas de Araújo e Gabrielle de Melo
 
 Receitas padronizadas
 
