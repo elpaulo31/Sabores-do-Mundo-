@@ -6,7 +6,7 @@ Integrantes:
 
 Gabrielle de Melo Nascimento;
 
-Brunno Barbosa de lima Assunção;
+Brunno Barbosa de Lima Assunção;
 
 Igor Gabriel Soares de Almeida Araújo;
 
