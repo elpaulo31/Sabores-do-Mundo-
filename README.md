@@ -2,8 +2,9 @@
 atividade da faculdade 
 
 Integrantes:
-Gabrielle Melo 
-Brunno Assunção 
-Lucas de Araujo 
-Nayane Lopes
-Paulo Thiago 
+Gabrielle de Melo Nascimento 
+Brunno Barbosa de lima Assunção
+Igor Gabriel Soares de Almeida Araújo
+Lucas de Araujo dos Prazeres 
+Nayane Maria Lopes dos Santos 
+Paulo Thiago Santos da Silva
