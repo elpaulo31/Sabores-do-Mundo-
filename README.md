@@ -69,7 +69,7 @@ Escalas de trabalho
 Avaliações de desempenho
 
 🍳 Módulo de Produção
-Responsável: [Nome do Aluno - RM]
+Responsável: Lucas de Araújo
 
 Receitas padronizadas
 
