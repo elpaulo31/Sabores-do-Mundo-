@@ -51,7 +51,7 @@ Controle de acesso por tipo de usuário
 Gestão de sessão de usuário
 
 📦 Módulo de Estoque
-Responsável: [Nome do Aluno - RM]
+Responsável: Igor Gabriel 
 
 Controle de produtos em tempo real
 
@@ -78,13 +78,15 @@ Controle de cardápio
 Monitoramento de produção
 
 📊 Módulo de Relatórios
-Responsável: [Nome do Aluno - RM]
+Responsável: Paulo Thiago
 
 Análise de vendas
 
 Métricas de estoque
 
 Dashboard gerencial
+
+
 
 📱 Protótipo da Interface
 Telas Principais
