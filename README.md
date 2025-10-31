@@ -1,7 +1,8 @@
 # Sabores-do-Mundo-
 atividade da faculdade 
-Gabrielle melo 
-Brunno assunção 
-Lucas de araujo 
+Integrantes:
+Gabrielle Melo 
+Brunno Assunção 
+Lucas de Araujo 
 Nayane Lopes
 Paulo Thiago 
