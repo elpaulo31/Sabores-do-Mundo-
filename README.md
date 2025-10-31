@@ -1,8 +1,8 @@
 # Sabores-do-Mundo-
-Atividade da faculdade 
+**Atividade da faculdade** 
 
 
-Integrantes:
+**Integrantes:**
 
 Gabrielle de Melo Nascimento;
 
@@ -18,4 +18,4 @@ Paulo Thiago Santos da Silva.
 
 
 
-Primeira atualização 31/10
+**Primeira atualização 31/10**
